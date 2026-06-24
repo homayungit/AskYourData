@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AskYourData.API/AskYourData.API.csproj" />
+    <Project Path="src/AskYourData.Core/AskYourData.Core.csproj" />
+    <Project Path="src/AskYourData.Infrastructure/AskYourData.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AskYourData.Tests.Integration/AskYourData.Tests.Integration.csproj" />
+    <Project Path="tests/AskYourData.Tests.Unit/AskYourData.Tests.Unit.csproj" />
+  </Folder>
+</Solution>
